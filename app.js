@@ -3,7 +3,7 @@ const http = require("http");
 const apicall = require("./controller/apicall");
 
 let app = express();
-app.use("/", apicall.calling);
+app.use("/call", apicall.calling);
 var port = 1230;
 var server = http.createServer(app);
 server.listen(port);

@@ -7,3 +7,8 @@
 //1. create module folder for oprations and controller file for routing.
 //2. create file for hardcode string as magic string.
 //3. carete controller for controller function call and structure well.
+
+//5a369df758fd055dea33dad61494d43e1fa8ad3d
+
+//1. Call api async and get the response.
+//2. formate for concurrency calls and remove extr stuff

@@ -1,6 +1,6 @@
 {
     "mongo": {
-        "mongourl": "mongodb://127.0.0.1/rentmojo",
+        "mongourl": "mongodb://mongo:27017/rentmojo",
         "tabelname": "apiList"
     },
     "apiforCall": "https://medium.com",

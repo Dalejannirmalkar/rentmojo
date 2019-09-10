@@ -2,7 +2,7 @@
 
 # install node if not run the docker file
 
-# after run the docker run this curl for run the api and scraping
+# after run the docker run this curl for run the api and scraping compalete
 
 curl -X GET \
  http://localhost:1230 \

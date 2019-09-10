@@ -16,3 +16,7 @@
 //9cecd03d3a019b2cd7f2ff892e207088f2e17608
 //1. create function for recursive call based on depth.
 //2. based on urls enter all the params and call again recursivly.
+
+//8ea42ac4e96715a26cc943af52abe60cbbec7a8d
+
+//1. add docker file.

@@ -2,7 +2,7 @@ const express = require("express");
 const http = require("http");
 const apicall = require("./controller/apicall");
 let app = express();
-app.use("/call", apicall.calling);
+app.use("/", apicall.calling);
 
 app.eventNames();
 var port = 1230;

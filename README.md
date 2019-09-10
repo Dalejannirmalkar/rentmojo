@@ -12,3 +12,7 @@
 
 //1. Call api async and get the response.
 //2. formate for concurrency calls and remove extr stuff
+
+//9cecd03d3a019b2cd7f2ff892e207088f2e17608
+//1. create function for recursive call based on depth.
+//2. based on urls enter all the params and call again recursivly.

@@ -3,5 +3,6 @@
         "mongourl": "mongodb://127.0.0.1/rentmojo",
         "tabelname": "apiList"
     },
-    "apiforCall": "https://medium.com "
+    "apiforCall": "https://medium.com",
+    "depth": 30
 }

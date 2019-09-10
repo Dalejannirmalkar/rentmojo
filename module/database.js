@@ -21,7 +21,7 @@ db.once(magicString.openKey, function() {
 });
 
 let apiCallCreate = mongoose.Schema({
-  api: { unique: true, type: String },
+  url: { unique: true, type: String },
   params: [String]
 });
 

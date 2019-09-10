@@ -2,6 +2,11 @@
 
 # install node if not run the docker file
 
+# after run the docker run this curl for run the api and scraping
+
+curl -X GET \
+ http://localhost:1230 \
+
 # 4b4c389afd05b18847f1862dda32ad67af94057a
 
 1. create app.js for create server and install espress for middleware.

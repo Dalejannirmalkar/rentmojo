@@ -30,3 +30,7 @@
 # b4a1ac20e8e2629d126a555ce3b62741775067b9
 
 1.  add for node docker file
+
+# 5cc6da2d42b2db2ced356d708a1758cb1b65200a
+
+1. complete docker and last push

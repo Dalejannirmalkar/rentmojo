@@ -6,7 +6,7 @@
     "start": "NODE_ENV=dev node app.js"
   },
   "dependencies": {
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "http": "0.0.0",
     "mongoose": "^5.7.0"
